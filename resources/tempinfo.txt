@@ -1,0 +1,10 @@
+description:
+    - implements a network stack
+    - communicates with nodes through network stack
+    - implements local queues
+    - communicates with local processes through queues 
+
+components:
+    - network stack
+    - receiving queue(s)
+    - sending queue(s)
